@@ -8,4 +8,4 @@ A simple and intuitive app to generate and customize color palettes. Perfect for
 - Adjust brightness, saturation, and hue.
 - Save and export color palettes.
 - Copy color codes (HEX, RGB, HSL).
-- Responsive design for all device
+  
